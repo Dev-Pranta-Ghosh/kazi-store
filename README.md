@@ -221,33 +221,10 @@ Cosmetics & Beauty Retail Store
 
 ---
 
-## 📸 Screenshots
+## 📄 License
 
-### Homepage
+**Copyright © 2026 Pranta Ghosh. All Rights Reserved.**
 
-_Add your homepage screenshot here._
+This project and its source code are proprietary. Permission is not granted to copy, reproduce, modify, distribute, publish, sublicense, sell, or use this project or any part of its source code without explicit written permission from the copyright holder.
 
-### Shop
-
-_Add your shop page screenshot here._
-
-### Product Details
-
-_Add your product details screenshot here._
-
-### Shopping Cart
-
-_Add your cart screenshot here._
-
-### Checkout
-
-_Add your checkout screenshot here._
-
----
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/Dev-Pranta-Ghosh/kazi-store.git
+The live website may be viewed for demonstration purposes, but viewing the website does not grant permission to reproduce or reuse its design, source code, assets, or content.
